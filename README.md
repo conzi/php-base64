@@ -28,4 +28,5 @@ php版本的base64，从[jquery-base64](https://github.com/carlo/jquery-base64)�
 ====
 
 [wikipedia:base64](http://zh.wikipedia.org/wiki/Base64)
+
 [百度百科:base64](http://baike.baidu.com/view/1485202.htm)
